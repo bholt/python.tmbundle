@@ -743,7 +743,7 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>meta.function-call.name.python</string>
+					<string>entity.name.function.python</string>
 				</dict>
 				<key>2</key>
 				<dict>
