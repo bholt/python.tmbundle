@@ -7,11 +7,12 @@
 	<key>contactName</key>
 	<string>Brad Miller</string>
 	<key>description</key>
-	<string>Support for the &lt;a href="http://www.python.org/"&gt;Python&lt;/a&gt; programming language.</string>
+	<string>Support for the &lt;a href=&quot;http://www.python.org/&quot;&gt;Python&lt;/a&gt; programming language.</string>
 	<key>mainMenu</key>
 	<dict>
 		<key>excludedItems</key>
 		<array>
+			<string>F23DB5B2-7D08-11D9-A709-000D93B6E43C</string>
 			<string>8FBF7D90-D1FC-49EE-AC1B-14BE5FB11647</string>
 			<string>7797CDD8-76A2-4A5C-A41C-9AA7E6FBBA84</string>
 			<string>44F64180-F86E-4980-895A-2994B0EEDB5D</string>
